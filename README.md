@@ -1,0 +1,2 @@
+# fckn
+fast script
